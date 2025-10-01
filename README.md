@@ -38,7 +38,7 @@ Date | Start | End | Duration | Net Duration
 ...
 ▶ Net Total: HH:MM
 
-    RUN
+    python worklog_dashboard.py
 
-python worklog_dashboard.py
+
 
