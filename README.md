@@ -37,3 +37,7 @@ Without lunch:
 Date | Start | End | Duration | Net Duration
 ...
 ▶ Net Total: HH:MM
+
+RUN
+python worklog_dashboard.py
+
