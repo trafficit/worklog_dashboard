@@ -23,7 +23,8 @@ This is important for consistent weekday alignment across different locales.
 If your system uses a different first day of the week, adjust your locale settings or calendar configuration accordingly.
 CSV Export Format
 
-<img width="488" height="589" alt="image" src="https://github.com/user-attachments/assets/e9dfd4d4-6cb4-40e5-a434-5503886d63b0" />
+<img width="484" height="601" alt="Dashboard" src="https://github.com/user-attachments/assets/0efce686-bdca-4c79-8ecc-3537455cc4b6" />
+
 
 Depending on whether lunch is used:
 
