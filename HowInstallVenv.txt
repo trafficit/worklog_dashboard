@@ -1,0 +1,12 @@
+python3 -m venv .venv
+source .venv/bin/activate
+pip install openpyxl
+python worklog4.py
+
+sudo apt install pipx
+pipx ensurepath
+source .venv/bin/activate
+pip install tkcalendar
+sudo apt install python3-tk
+python worklog4.py
+

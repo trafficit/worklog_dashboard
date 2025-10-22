@@ -1,13 +1,7 @@
 [Desktop Entry]
 Name=Worklog Dashboard
-Exec=/home/wizard/venv_worklog/bin/python "/home/wizard/ProjectProd/WorkLog/WorkLog.py"
+Exec=/home/wizard/venv_worklog/bin/python "/home/wizard/ProjectVScode2025/worklog3/worklog3.py"
 Icon=/home/wizard/ProjectProd/WorkLog/worklog.png
 Type=Application
 Terminal=false
 Categories=Office;
-
-
-#Важно чтобы убрать красный крестик
-#chmod +x ~/Desktop/WorkLog.desktop
-#gio set ~/Desktop/WorkLog.desktop metadata::trusted true
-#
